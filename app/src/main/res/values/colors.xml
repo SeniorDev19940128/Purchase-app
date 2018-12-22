@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3c8dbc</color>
+    <color name="appclr">#3c8dbc</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#3c8dbc</color>
+    <color name="white">#ffffff</color>
+    <color name="tempbg">#88ef88</color>
+    <color name="black">#000000</color>
+    <color name="floatingbutton">#36d7e5</color>
+    <color name="savebutton">#3cdbe7</color>
+    <color name="selectedTabColor">#404b97</color>
+    <color name="dropDown">#3cdbe8</color>
+    <color name="lines">#72A0B1</color>
+
+</resources>

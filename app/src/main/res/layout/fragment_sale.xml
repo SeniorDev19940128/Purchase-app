@@ -1,0 +1,43 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:id="@+id/SaleFrag"
+    tools:context=".Views.Tabs.Sales.Sale">
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/SalesRecyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/salesheaderlayout" />
+
+    <!---->
+    <!--<com.google.android.material.floatingactionbutton.FloatingActionButton-->
+        <!--android:id="@+id/AddSalesButton"-->
+        <!--android:layout_width="70dp"-->
+        <!--android:layout_height="70dp"-->
+        <!--android:layout_alignParentRight="true"-->
+        <!--android:layout_alignParentBottom="true"-->
+        <!--android:tint="@color/white"-->
+        <!--android:background="@color/floatingbutton"-->
+        <!--android:backgroundTint="@color/floatingbutton"-->
+        <!--app:srcCompat="@android:drawable/ic_input_add"-->
+        <!--android:layout_marginRight="20dp"-->
+        <!--android:layout_marginBottom="40dp" />-->
+    <ImageView
+        android:id="@+id/AddSalesButton"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="end"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="40dp"
+        android:src="@drawable/plus"
+        />
+
+
+</RelativeLayout>

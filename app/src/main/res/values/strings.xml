@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Purchase App</string>
+    <string name="search">\uf002</string>
+    <string name="delete">\uf057</string>
+    <string name="setting">\uf013</string>
+    <string name="edit">\uf044</string>
+    <string name="back">\uf053</string>
+    <string name="user">\uf007</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
